@@ -19,6 +19,16 @@ I am _passionate about_:
 
 - The Gym
 
+
+---
+Summer Classes:
+
+| Prefix   | Number | Name                 |
+|----------|--------|----------------------|
+| **COP**  | 2073   | Into to Data Science |
+| **MAC**  | 2311   | Calculus 1           |
+
+
 ***
 
-> Last modified: 2021/07/07
+> Last modified: 2021/07/18
